@@ -31,10 +31,12 @@ collection_interface:
 # Viewers need this key to unlock protected stories.
 story_key: "test"
 
-# Google Sheets Integration (optional)
-# Manage content via Google Sheets instead of editing CSV files directly.
+# Google Sheets Integration
 # See https://telar.org/docs/your-data/google-sheets/ for detailed setup instructions.
-#
+google_sheets:
+  enabled: true
+  published_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vT9jzdibbxMJhRgwGrucP2L0h4g5rm8vxjGAIN_5SJSjX1KEORCvxLQKJcqKjsoQTQMtO-sOHg9Dunc/pubhtml"
+
 # Setup:
 # 1. Get the template: Duplicate our template at https://bit.ly/telar-template
 # 2. Publish your sheet: File > Share > Publish to web
