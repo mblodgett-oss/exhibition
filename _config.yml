@@ -7,7 +7,7 @@ description: "How the American identity forced Japanese-Americans to assimilate 
 url: "https://mblodgett-oss.github.io"
 baseurl: "/exhibition"
 author: "Makenzie Blodgett"
-telar_theme: "trama" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
+telar_theme: "austin" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
 logo: ""
 telar_language: "en"
 
